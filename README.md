@@ -1,13 +1,10 @@
+!(codeTrek_200x200.png) 
 ## Welcome to CodeTrek: Document your journey through legacy codebase
-
-
-[Link](url) and (codeTrek_200x200.png)
 
 
 ### Languages: 
 Python 
 JavaScript
-
 
 ### Frameworks: 
 React
