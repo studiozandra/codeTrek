@@ -1,4 +1,4 @@
-!(codeTrek_200x200.png) 
+![Image of logo](codeTrek_200x200.png) 
 ## Welcome to CodeTrek: Document your journey through legacy codebase
 
 
