@@ -1,7 +1,7 @@
 ## Welcome to CodeTrek: Document your journey through legacy codebase
 
 
-[Link](url) and ![Image](src)
+[Link](url) and (codeTrek_200x200.png)
 
 
 ### Languages: 
